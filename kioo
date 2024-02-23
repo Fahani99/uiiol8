@@ -1,0 +1,3 @@
+--min-self-delegation=1 \
+--fees=10000ulava \
+--from=wallet \
